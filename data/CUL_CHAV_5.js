@@ -1,0 +1,1 @@
+var json_CUL_CHAV_5 = {"type":"FeatureCollection","name":"CUL_CHAV_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"CHAV":"CULTURA CHAVIN"},"geometry":{"type":"Point","coordinates":[-77.013446431193472,-10.550758784634553]}}]}
